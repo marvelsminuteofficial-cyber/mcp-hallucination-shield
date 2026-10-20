@@ -1,0 +1,10 @@
+{
+  "name": "mcp-hallucination-shield",
+  "version": "1.0.0",
+  "description": "Stops AI coding assistants from hallucinating fake npm and PyPI packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {}
+}
